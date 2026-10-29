@@ -9,6 +9,8 @@ RequestBeam metin, görsel, video, Similarweb ve Twitter API'leri için senkron 
 Bu depodan Python 3.10 veya üzeriyle yükleyin. Bu sürüm PyPI'da yayımlanmamıştır; oradaki aynı adlı bir paketin bu SDK olduğunu varsaymayın.
 
 ```bash
+git clone https://github.com/RequestBeamDev/python_sdk.git
+cd python_sdk
 python3 -m venv .venv
 source .venv/bin/activate
 python -m pip install .

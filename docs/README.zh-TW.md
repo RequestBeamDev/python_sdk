@@ -9,6 +9,8 @@
 使用 Python 3.10 或更新版本，從本儲存庫安裝。本版本尚未發布至 PyPI；請勿將 PyPI 上的同名套件視為本 SDK。
 
 ```bash
+git clone https://github.com/RequestBeamDev/python_sdk.git
+cd python_sdk
 python3 -m venv .venv
 source .venv/bin/activate
 python -m pip install .

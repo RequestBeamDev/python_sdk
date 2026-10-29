@@ -9,6 +9,8 @@
 Установите из этого репозитория, используя Python 3.10 или новее. Эта версия не опубликована в PyPI; одноименный пакет там не обязательно является этим SDK.
 
 ```bash
+git clone https://github.com/RequestBeamDev/python_sdk.git
+cd python_sdk
 python3 -m venv .venv
 source .venv/bin/activate
 python -m pip install .

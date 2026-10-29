@@ -9,6 +9,8 @@ Cliente Python síncrono e assíncrono para as APIs de texto, imagem, vídeo, Si
 Instale a partir deste repositório com Python 3.10 ou superior. Esta versão não foi publicada no PyPI; um pacote com o mesmo nome não é necessariamente este SDK.
 
 ```bash
+git clone https://github.com/RequestBeamDev/python_sdk.git
+cd python_sdk
 python3 -m venv .venv
 source .venv/bin/activate
 python -m pip install .

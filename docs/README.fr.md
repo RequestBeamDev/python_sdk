@@ -9,6 +9,8 @@ Client Python synchrone et asynchrone pour les API RequestBeam de texte, d'image
 Installez depuis ce dépôt avec Python 3.10 ou ultérieur. Cette version n'est pas publiée sur PyPI ; un paquet portant le même nom n'est pas nécessairement ce SDK.
 
 ```bash
+git clone https://github.com/RequestBeamDev/python_sdk.git
+cd python_sdk
 python3 -m venv .venv
 source .venv/bin/activate
 python -m pip install .

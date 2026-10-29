@@ -9,6 +9,8 @@ RequestBeam のテキスト、画像、動画、Similarweb、Twitter API 用の�
 Python 3.10 以降で、このリポジトリからインストールしてください。このバージョンは PyPI 未公開です。PyPI の同名パッケージをこの SDK と見なさないでください。
 
 ```bash
+git clone https://github.com/RequestBeamDev/python_sdk.git
+cd python_sdk
 python3 -m venv .venv
 source .venv/bin/activate
 python -m pip install .

@@ -9,6 +9,8 @@ A synchronous and asynchronous Python client for RequestBeam text, image, video,
 Install from this repository with Python 3.10 or newer. This version has not been published to PyPI; do not assume that a package with the same name there is this SDK.
 
 ```bash
+git clone https://github.com/RequestBeamDev/python_sdk.git
+cd python_sdk
 python3 -m venv .venv
 source .venv/bin/activate
 python -m pip install .

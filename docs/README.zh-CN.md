@@ -9,6 +9,8 @@
 使用 Python 3.10 或更高版本，从本仓库安装。本版本尚未发布到 PyPI；不要将 PyPI 上的同名包视为本 SDK。
 
 ```bash
+git clone https://github.com/RequestBeamDev/python_sdk.git
+cd python_sdk
 python3 -m venv .venv
 source .venv/bin/activate
 python -m pip install .

@@ -9,6 +9,8 @@ Ein synchroner und asynchroner Python-Client für die Text-, Bild-, Video-, Simi
 Installieren Sie dieses Repository mit Python 3.10 oder neuer. Diese Version wurde nicht auf PyPI veröffentlicht. Ein dort gleichnamiges Paket ist nicht automatisch dieses SDK.
 
 ```bash
+git clone https://github.com/RequestBeamDev/python_sdk.git
+cd python_sdk
 python3 -m venv .venv
 source .venv/bin/activate
 python -m pip install .
